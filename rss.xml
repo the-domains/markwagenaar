@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MarkWagenaar]]></title>
         <description><![CDATA[MarkWagenaar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/markwagenaar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 22:11:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 22:13:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/markwagenaar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/752e5aaa-ceb6-43bf-bdf6-866b540e7fcc.jpg">]]></description>
+            <link>https://thegrid.ai/markwagenaar/c7435ecb-2f34-4deb-a9c9-fdd783a7ac86/index.html</link>
+            <guid isPermaLink="false">c7435ecb-2f34-4deb-a9c9-fdd783a7ac86</guid>
+            <pubDate>Mon, 11 Jan 2016 22:13:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4c4f2b3-a43c-446a-a23e-18341aa7727b.jpg">]]></description>
-            <link>undefined4ffed95c-7e5d-4d43-84dc-dedfc50032c2/index.html</link>
+            <link>https://thegrid.ai/markwagenaar/4ffed95c-7e5d-4d43-84dc-dedfc50032c2/index.html</link>
             <guid isPermaLink="false">4ffed95c-7e5d-4d43-84dc-dedfc50032c2</guid>
             <pubDate>Mon, 11 Jan 2016 22:10:42 GMT</pubDate>
         </item>
